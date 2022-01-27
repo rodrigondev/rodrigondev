@@ -1,16 +1,31 @@
-### Hi there 👋
+## Olá! Eu sou o Rodrigo Araujo👋✌️
 
-<!--
-**rodrigondev/rodrigondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="#">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+</a>
 
-Here are some ideas to get you started:
+<div>
+🖥️ Começando no mundo da programação<br>
+📖 Atualmente estudando HTML/CSS<br>
+🤟 Futuro desenvolvedor Fullstack<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div>
+
+##
+
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigondev&show_icons=true&theme=dark&count_private=true)
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigondev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
+  
+  ## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+</div><br/>
+ 
+</div>
+
+![Snake animation](https://github.com/rodrigondev/rodrigondev/blob/output/github-contribution-grid-snake.svg)
