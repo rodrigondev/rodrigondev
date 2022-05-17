@@ -25,7 +25,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
 </div><br/>
-   ![Snake animation](https://github.com/rodrigondev/rodrigondev/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/rodrigondev/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>
